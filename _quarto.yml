@@ -3,12 +3,13 @@ project:
 
 book:
   title: "Clase_20_09"
-  author: "Norah Jones"
+  author: "Irasema Pedroza"
   date: "20/9/2024"
   chapters:
     - index.qmd
     - intro.qmd
     - summary.qmd
+    - Apendice.qmd
     - references.qmd
 
 bibliography: references.bib
